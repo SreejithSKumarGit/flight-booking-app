@@ -1,0 +1,38 @@
+.Container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 100vh;
+}
+.ContentBox
+{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.Content
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+button
+{
+    
+    width: 200px;
+    height: 40px;
+    background-color: rgb(75, 75, 235);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+
+}

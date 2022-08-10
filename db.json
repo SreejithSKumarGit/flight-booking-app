@@ -1,0 +1,916 @@
+{
+  "users": [
+    {
+      "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+      "name": "Sreejith",
+      "email": "sreejithskumar80@gmail.com",
+      "password": "Sreejith1@"
+    }
+  ],
+  "flights": [
+    {
+      "id": 1,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 10000,
+      "date_diff": 0
+    },
+    {
+      "id": 2,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 10500,
+      "date_diff": 0
+    },
+    {
+      "id": 3,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 10600,
+      "date_diff": 0
+    },
+    {
+      "id": 4,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 10600,
+      "date_diff": 0
+    },
+    {
+      "id": 5,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 10300,
+      "date_diff": 0
+    },
+    {
+      "id": 6,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 10400,
+      "date_diff": 0
+    },
+    {
+      "id": 7,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 10400,
+      "date_diff": 0
+    },
+    {
+      "id": 8,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 10500,
+      "date_diff": 0
+    },
+    {
+      "id": 9,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 1100,
+      "date_diff": 0
+    },
+    {
+      "id": 10,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 12000,
+      "date_diff": 0
+    },
+    {
+      "id": 11,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 9500,
+      "date_diff": 1
+    },
+    {
+      "id": 12,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 9600,
+      "date_diff": 1
+    },
+    {
+      "id": 13,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 9300,
+      "date_diff": 1
+    },
+    {
+      "id": 14,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 10000,
+      "date_diff": 1
+    },
+    {
+      "id": 15,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 9300,
+      "date_diff": 1
+    },
+    {
+      "id": 16,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 9500,
+      "date_diff": 1
+    },
+    {
+      "id": 17,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 9600,
+      "date_diff": 1
+    },
+    {
+      "id": 18,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 9800,
+      "date_diff": 1
+    },
+    {
+      "id": 19,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 9900,
+      "date_diff": 1
+    },
+    {
+      "id": 20,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 9000,
+      "date_diff": 1
+    },
+    {
+      "id": 21,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 7500,
+      "date_diff": 2
+    },
+    {
+      "id": 22,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 7800,
+      "date_diff": 2
+    },
+    {
+      "id": 23,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 7600,
+      "date_diff": 2
+    },
+    {
+      "id": 24,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 7300,
+      "date_diff": 2
+    },
+    {
+      "id": 25,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 7000,
+      "date_diff": 2
+    },
+    {
+      "id": 26,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 7200,
+      "date_diff": 2
+    },
+    {
+      "id": 27,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 7600,
+      "date_diff": 2
+    },
+    {
+      "id": 28,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 7900,
+      "date_diff": 2
+    },
+    {
+      "id": 29,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 7900,
+      "date_diff": 2
+    },
+    {
+      "id": 30,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 8000,
+      "date_diff": 2
+    },
+    {
+      "id": 31,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 6300,
+      "date_diff": 3
+    },
+    {
+      "id": 32,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 6900,
+      "date_diff": 3
+    },
+    {
+      "id": 33,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 6800,
+      "date_diff": 3
+    },
+    {
+      "id": 34,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 6700,
+      "date_diff": 3
+    },
+    {
+      "id": 35,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 6400,
+      "date_diff": 3
+    },
+    {
+      "id": 36,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 6200,
+      "date_diff": 3
+    },
+    {
+      "id": 37,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 6100,
+      "date_diff": 3
+    },
+    {
+      "id": 38,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 6000,
+      "date_diff": 3
+    },
+    {
+      "id": 39,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 6600,
+      "date_diff": 3
+    },
+    {
+      "id": 40,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 6800,
+      "date_diff": 3
+    },
+    {
+      "id": 41,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 5000,
+      "date_diff": 4
+    },
+    {
+      "id": 42,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 4900,
+      "date_diff": 4
+    },
+    {
+      "id": 43,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 5100,
+      "date_diff": 4
+    },
+    {
+      "id": 44,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 5200,
+      "date_diff": 4
+    },
+    {
+      "id": 45,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 4800,
+      "date_diff": 4
+    },
+    {
+      "id": 46,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 5300,
+      "date_diff": 4
+    },
+    {
+      "id": 47,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 4900,
+      "date_diff": 4
+    },
+    {
+      "id": 48,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 5600,
+      "date_diff": 4
+    },
+    {
+      "id": 49,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 4800,
+      "date_diff": 4
+    },
+    {
+      "id": 50,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 4700,
+      "date_diff": 4
+    },
+    {
+      "id": 51,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 3900,
+      "date_diff": 5
+    },
+    {
+      "id": 52,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 3600,
+      "date_diff": 5
+    },
+    {
+      "id": 53,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 4000,
+      "date_diff": 5
+    },
+    {
+      "id": 54,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 4200,
+      "date_diff": 5
+    },
+    {
+      "id": 55,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 4000,
+      "date_diff": 5
+    },
+    {
+      "id": 56,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 3200,
+      "date_diff": 5
+    },
+    {
+      "id": 57,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 3200,
+      "date_diff": 5
+    },
+    {
+      "id": 58,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 3200,
+      "date_diff": 5
+    },
+    {
+      "id": 59,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 3200,
+      "date_diff": 5
+    },
+    {
+      "id": 60,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 3200,
+      "date_diff": 5
+    },
+    {
+      "id": 61,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 3000,
+      "date_diff": 6
+    },
+    {
+      "id": 62,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 2800,
+      "date_diff": 6
+    },
+    {
+      "id": 63,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 2900,
+      "date_diff": 6
+    },
+    {
+      "id": 64,
+      "flight_name": "Jet Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "08:15",
+      "arrival_time": "11:00",
+      "fare": 2700,
+      "date_diff": 6
+    },
+    {
+      "id": 65,
+      "flight_name": "Emirates",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "12:15",
+      "arrival_time": "14:30",
+      "fare": 2600,
+      "date_diff": 6
+    },
+    {
+      "id": 66,
+      "flight_name": "British Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "14:15",
+      "arrival_time": "16:30",
+      "fare": 3000,
+      "date_diff": 6
+    },
+    {
+      "id": 67,
+      "flight_name": "Qatar Airways",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "16:15",
+      "arrival_time": "18:30",
+      "fare": 2900,
+      "date_diff": 6
+    },
+    {
+      "id": 68,
+      "flight_name": "Lufthansa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "20:15",
+      "arrival_time": "22:30",
+      "fare": 2400,
+      "date_diff": 6
+    },
+    {
+      "id": 69,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "22:15",
+      "arrival_time": "00:30",
+      "fare": 2500,
+      "date_diff": 6
+    },
+    {
+      "id": 70,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "23:35",
+      "arrival_time": "01:30",
+      "fare": 2900,
+      "date_diff": 6
+    }
+  ],
+  "checkout": [
+    {
+      "basic_fare": 8000,
+      "food_charge": 0,
+      "service_charge": 400,
+      "total": 8400,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "3",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 12000,
+      "food_charge": 1200,
+      "service_charge": 600,
+      "total": 13800,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "5",
+      "no_of_passengers": "3"
+    },
+    {
+      "basic_fare": 6400,
+      "food_charge": 800,
+      "service_charge": 320,
+      "total": 7520,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "1",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 12600,
+      "food_charge": 800,
+      "service_charge": 630,
+      "total": 14030,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "31",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 20800,
+      "food_charge": 800,
+      "service_charge": 1040,
+      "total": 22640,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "6",
+      "no_of_passengers": "2"
+    }
+  ],
+  "bookings": [
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 1
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 2
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 3
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 4
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 5
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 6
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 7
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 8
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 6400,
+        "food_charge": 800,
+        "service_charge": 320,
+        "total": 7520,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "1",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 9
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12600,
+        "food_charge": 800,
+        "service_charge": 630,
+        "total": 14030,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "31",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 10
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 20800,
+        "food_charge": 800,
+        "service_charge": 1040,
+        "total": 22640,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "6",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 11
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 20800,
+        "food_charge": 800,
+        "service_charge": 1040,
+        "total": 22640,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "6",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 12
+    }
+  ]
+}

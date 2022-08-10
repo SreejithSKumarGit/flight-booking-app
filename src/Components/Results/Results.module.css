@@ -1,0 +1,50 @@
+.resultsContainer
+{
+    display:flex ;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+
+}
+
+.result
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 12px;
+    opacity: 95%;
+    width: 95%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.result img
+{
+    height: 100%;
+}
+.content
+{
+    padding: 15px;
+    width: 500px;
+    height: 40%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.fareBox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fareBox button
+{
+    width: 120px;
+    height: 30px;
+    background-color: rgb(75, 75, 235);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+}
