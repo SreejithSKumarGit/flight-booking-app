@@ -29,7 +29,11 @@ export function Login()
             alert("Enter valid passsword")
             setlogin(true);
             res[0].password===loginData.password? dispatch(loginSuccess(res[0])):dispatch(loginUnsuccess);
-            login ?navigate("/search"):navigate("/");
+            auth.status ?navigate("/search"):navigate("/");
+        })
+        .catch((err)=>
+        {
+            alert("Something went wrong")
         })
         
              

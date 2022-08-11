@@ -22,7 +22,7 @@ export function NavBar()
         <div className={NavBarStyles.Container}>
             <img src="https://support.appsflyer.com/hc/article_attachments/360002456265/InApp_Events_flight.png" alt="" />
             <div style={{display:"flex",gap:"15px"}}>
-            {auth.status || logout?<><button onClick={()=>(navigate('/search'))}>Search for flights</button><button onClick={handleLogout}>Logout</button></>:<></>}
+            {auth.status && logout?<><button onClick={()=>(navigate('/search'))}>Search for flights</button><button onClick={handleLogout}>Logout</button></>:<></>}
             </div>
             
         </div>

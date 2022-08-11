@@ -8,7 +8,7 @@ import { NavBar } from './Components/NavBar/NavBar';
 
 function App() {
   return (
-    <div style={{backgroundImage:"url(https://img.freepik.com/free-vector/time-travel-cartoon-landing-page-passenger-airplane-flying-sky-buy-ticket-online-concept-with-plane-flight-booking-service-airline-traveling-journey-vacation-holidays-vector-web-banner_107791-9220.jpg?w=2000)",height:"100%",width:"100vw"}}>
+    <div style={{backgroundImage:"url(https://img.freepik.com/free-vector/time-travel-cartoon-landing-page-passenger-airplane-flying-sky-buy-ticket-online-concept-with-plane-flight-booking-service-airline-traveling-journey-vacation-holidays-vector-web-banner_107791-9220.jpg?w=2000)",height:"100%",width:"98.7vw"}}>
     <NavBar/>
     <Routes>
       <Route path='/' element={<Home/>}/>
